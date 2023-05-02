@@ -2,9 +2,11 @@
 Module for interacting with pi-hole using the REST API
 
 ## 🚀 Install
-Download and run the script **[Deploy-Invoke-Pi-Hole.ps1](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Deploy-Invoke-Pi-Hole.ps1)** \
-Server and Token can be set in module parameters (**line 28 and 29**) \
-Get Token: `sudo cat /etc/pihole/setupVars.conf | grep PASSWORD`
+Download and run the script **[Deploy-Invoke-Pi-Hole.ps1](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Deploy-Invoke-Pi-Hole.ps1)**
+
+## 🔐 Token
+Get Token (ssh): `sudo cat /etc/pihole/setupVars.conf | grep WEBPASSWORD` \
+Server and Token can be set in module parameters (**line 28 and 29**)
 
 ## 🔑 Keys
 - ✅ `Invoke-Pi-Hole -Server 192.168.1.253 -Token 5af9bd44aebce0af6206fc8ad4c3750b6bf2dd38fa59bba84ea9570e16a05d0f`
