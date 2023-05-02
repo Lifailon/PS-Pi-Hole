@@ -1,7 +1,7 @@
 Function Invoke-Pi-Hole {
 <#
 .SYNOPSIS
-Module for interacting with pi-hole using the REST API
+Module for interacting with pi-hole using the REST API. Used all possible endpoints at the time of release module.
 Get Token (ssh): sudo cat /etc/pihole/setupVars.conf | grep WEBPASSWORD
 Server and Token can be set in module parameters (line 28 and 29)
 .DESCRIPTION
