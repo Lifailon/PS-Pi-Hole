@@ -1,7 +1,5 @@
 # PS-Pi-Hole
-Module for interacting with pi-hole using the REST API \
-**Used all possible endpoints** at the time of release module \
-Can be used to create monitoring metrics, pipline and check versions
+Module for interacting with pi-hole using the REST API. **Used all possible endpoints** at the time of release module.
 
 ## 🚀 Install
 Download and run the script **[Deploy-Invoke-Pi-Hole.ps1](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Deploy-Invoke-Pi-Hole.ps1)**
