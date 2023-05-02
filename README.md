@@ -27,18 +27,23 @@ Server and Token can be set in module parameters (**line 28 and 29**)
 
 ## 🎉 Examples
 - Connect to Pi-Hole server for get stats (it is not necessary to use a token)
+
 ![Image alt](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Screen/Invoke-Pi-Hole-Stats.jpg)
 
 ![Image alt](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Screen/Invoke-Pi-Hole-Statistics.jpg)
 
 - Enable/Disable Blocking (using filters) and get status
+
 ![Image alt](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Screen/Invoke-Pi-Hole-Status.jpg)
 
 - Get full Query Log (comparison of raw and parsing output)
+
 ![Image alt](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Screen/Invoke-Pi-Hole-QueryLog.jpg)
 
 - Top local clients and permitted (available) domains destination
+
 ![Image alt](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Screen/Invoke-Pi-Hole-Top.jpg)
 
 - View versions for monitoring and update
+
 ![Image alt](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Screen/Invoke-Pi-Hole-Versions.jpg)
