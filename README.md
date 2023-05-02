@@ -9,7 +9,7 @@ Get Token (ssh): `sudo cat /etc/pihole/setupVars.conf | grep WEBPASSWORD` \
 Server and Token can be set in module parameters (**line 28 and 29**)
 
 ## 🔑 Keys
-- ✅ `Invoke-Pi-Hole -Server 192.168.1.253 -Token 5af9bd44aebce0af6206fc8ad4c3750b6bf2dd38fa59bba84ea9570e16a05d0f` -Status
+- ✅ `Invoke-Pi-Hole -Server 192.168.1.253 -Token 5af9bd44aebce0af6206fc8ad4c3750b6bf2dd38fa59bba84ea9570e16a05d0f -Status`
 - ✅ `Invoke-Pi-Hole -Enable` Enable Blocking
 - ✅ `Invoke-Pi-Hole -Disable` Disable Blocking
 - ✅ `Invoke-Pi-Hole -Stats` Blocking work status
