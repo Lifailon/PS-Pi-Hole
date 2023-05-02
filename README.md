@@ -26,3 +26,14 @@ Server and Token can be set in module parameters (**line 28 and 29**)
 - ✅ `Invoke-Pi-Hole -AdList`   Status Hosts List (StevenBlack)
 
 ## 🎉 Examples
+![Image alt](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Screen/Invoke-Pi-Hole-Stats.jpg)
+
+![Image alt](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Screen/Invoke-Pi-Hole-Status.jpg)
+
+![Image alt](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Screen/Invoke-Pi-Hole-QueryLog.jpg)
+
+![Image alt](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Screen/Invoke-Pi-Hole-Statistics.jpg)
+
+![Image alt](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Screen/Invoke-Pi-Hole-Top.jpg)
+
+![Image alt](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Screen/Invoke-Pi-Hole-Versions.jpg)
