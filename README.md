@@ -1,5 +1,5 @@
 # PS-Pi-Hole
-Module for interacting with pi-hole using the REST API (Invoke-WebRequest)
+Module for interacting with pi-hole using the REST API
 
 ## 🚀 Install
 Download and run the script **[Deploy-Invoke-Pi-Hole.ps1](https://github.com/Lifailon/PS-Pi-Hole/blob/rsa/Deploy-Invoke-Pi-Hole.ps1)** \
