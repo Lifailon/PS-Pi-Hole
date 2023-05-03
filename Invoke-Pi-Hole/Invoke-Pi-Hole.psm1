@@ -22,7 +22,7 @@ Invoke-Pi-Hole -Versions # Current and Latest versions
 Invoke-Pi-Hole -Releases # Current (last) version and date from the GitHub repository
 Invoke-Pi-Hole -AdList   # Status Hosts List (StevenBlack)
 .LINK
-https://github.com/Lifailon/Invoke-Pi-Hole
+https://github.com/Lifailon/PS-Pi-Hole
 #>
 param(
     $Server, # = "192.168.1.253"
